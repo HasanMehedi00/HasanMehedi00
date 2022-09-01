@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//35.163.91.47//NONSGML iCalcreator 2.6//
+VERSION:2.0
+BEGIN:VEVENT
+UID:776641711@scheduling
+DTSTAMP:20220228T164508Z
+DESCRIPTION:Client time zone: Asia/Singapore\nName: HASAN MEHEDI\nPhone: 98
+ 929948\nEmail: okmehedi04@gmail.com\n\nImportant Notice\n============\nI c
+ onfirm that I have read and agreed to the above important notice. By provi
+ ding my personal information\, I agree to CDC's Personal Data Protection P
+ olicy at https://www.cdc.com.sg/personal-data-protection: yes\n\n\nChange 
+ Appointment: https://app.acuityscheduling.com/schedule.php?owner=20159891&
+ action=appt&id%5B%5D=51faf9637acd6ead9f4d0aac3b45c44d\n
+DTSTART:20220507T033000Z
+DTEND:20220507T040000Z
+LOCATION:
+SUMMARY:COMFORTDELGRO DRIVING CENTRE PTE. LTD: No Walk-ins for counter serv
+ ices.  By Appointment only. (ComfortDelGro Driving Centre)
+END:VEVENT
+END:VCALENDAR
